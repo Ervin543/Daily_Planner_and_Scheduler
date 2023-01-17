@@ -6,12 +6,12 @@ The current date will be displayed under the header when the page is opened, and
 # Screenshots
 
 Below are the screenshots that contain all the code and the finished product of that code.
-![This is the code for the HTML part 1](images/HTML_1)
-![This is the code for the HTML part 2](images/HTML_2)
-![This is the code for the CSS](images/CSS)
-![This is the code for the JavaScript](images/JavaScript)
-![This is the code for the Webpage done late at night](images/Webpage_1)
-![This is the code for the Webpage done during the day](images/Webpage_2)
+![This is the code for the HTML part 1](images/HTML_1.PNG)
+![This is the code for the HTML part 2](images/HTML_2.PNG)
+![This is the code for the CSS](images/CSS.PNG)
+![This is the code for the JavaScript](images/JavaScript.PNG)
+![This is the code for the Webpage done late at night](images/Webpage_1.PNG)
+![This is the code for the Webpage done during the day](images/Webpage_2.PNG)
 
 
 # Links 
